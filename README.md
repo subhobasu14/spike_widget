@@ -18,6 +18,6 @@ In the browser, go to localhost:8080/index.html
 
 Modal should open
 
-Please follow the script in index.html
+Please take note of the scripts in index.html
 
 
