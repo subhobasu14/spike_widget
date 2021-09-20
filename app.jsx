@@ -1,4 +1,4 @@
-import { InputField } from './app2.js';
+import { InputField } from './InputField.js';
 import { ProductList } from './ProductList.js';
 import { repairProducts } from './repair-products.js'
 
