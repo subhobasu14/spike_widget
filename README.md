@@ -14,9 +14,9 @@ TO DO:
 
 Need a server to run it. I am using http-server
 Run the server from the folder where the files are stored. 
-In the browser, localhost:8080//trial.html
+In the browser, localhost:8080/index.html
 Modal should open
 
-Please follow the script in trial.html
+Please follow the script in index.html
 
 
